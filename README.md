@@ -3,4 +3,3 @@
 - left / right movement
 
 ![animatedplanep5.js](assets/plane.gif)
-)
